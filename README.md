@@ -11,7 +11,6 @@ This repository contains a breast cancer prediction model built using linear reg
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Project
