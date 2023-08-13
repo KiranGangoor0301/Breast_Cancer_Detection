@@ -41,7 +41,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/breast-cancer-prediction.git
+git clone https://github.com/KiranGangoor0301/Breast_Cancer_Detection
 ```
 
 2. Navigate to the project directory:
